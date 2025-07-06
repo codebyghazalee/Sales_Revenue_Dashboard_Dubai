@@ -43,4 +43,4 @@ Dubai Real Estate Analytics Dashboard – Sales & Revenue Insights (2017–2023)
 
 	Q&A Visuals: Natural language interaction with the data
 
-	📊 Interactive Video Walkthrough: Embedded video to demonstrate dashboard navigation and features
+5. 📊 Interactive Video Walkthrough: Embedded video to demonstrate dashboard navigation and features
